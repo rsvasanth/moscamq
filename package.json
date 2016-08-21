@@ -1,0 +1,22 @@
+{
+  "name": "moscamq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsvasanth/moscamq.git"
+  },
+  "author": "rsvasanth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsvasanth/moscamq/issues"
+  },
+  "homepage": "https://github.com/rsvasanth/moscamq#readme",
+  "dependencies": {
+    "mosca": "^2.0.2"
+  }
+}
